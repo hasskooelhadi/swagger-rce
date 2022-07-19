@@ -2,7 +2,7 @@
       {
           "swagger": "2.0",
           "info": {
-              "description": "A",
+              "description": "<script>alert(1)</script>",
               "version": "1.0.0",
               "title": "C"
           },
