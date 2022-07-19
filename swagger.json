@@ -2,7 +2,7 @@
       {
           "swagger": "2.0",
           "info": {
-              "description": "<math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><style><a title="</style><img src='#' onerror='alert(1)'>">",
+              "description": "*/ echo system(chr(0x6c).chr(0x73)); /*",
               "version": "1.0.0",
               "title": "C"
           },
