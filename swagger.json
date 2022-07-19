@@ -9,7 +9,7 @@
           "schemes": [
               "http"
           ],
-          "host": "15.205.170.232",
+          "host": "txu9kcntufidc4fqx1vrqlztxk3arz.burpcollaborator.net",
           "basePath": "/swagger",
           "produces": [
               "application/json"
